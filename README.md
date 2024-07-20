@@ -12,4 +12,10 @@
 - Download Visual Studio Code ( https://code.visualstudio.com/download )
 
 # Enter this in command prompt
-- Git clone
+- Git clone git@github.com:Awix002/NAXA.git
+- cd NAXA
+- code .
+
+  # In the Terminal of Visual Studio Code
+- npm install
+- npm start
